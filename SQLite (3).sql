@@ -1,0 +1,1 @@
+UPDATE Libros SET price=12.99 ,stock_count=6 WHERE id=2
