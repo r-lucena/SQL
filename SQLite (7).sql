@@ -1,3 +1,1 @@
-SELECT * 
-FROM tested
-WHERE survived = 1 AND sex= 'female' AND age>30
+GRANT SELECT, INSERT, UPDATE ON Books TO 'martin'@'localhost';
